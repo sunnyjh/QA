@@ -1,6 +1,6 @@
 # [How use the option -std=c99 for installing R packages](https://stackoverflow.com/questions/35198301/how-use-the-option-std-c99-for-installing-r-packages)
 
-## ![Questions]("_std=c99.png")
+## ![Questions](_std=c99.png)
 
 
 ## Answer
